@@ -1,11 +1,16 @@
 ### Welcome to gostmen Hut 👋
-<br />
-<br />
+#### Hi, I'm gostmen (not Ghostmen) 
 
-Hi, I'm gosty(not Ghosty) ,  
-<br />
-cybersecurity  
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+
+<h4>📋 About Me</h4>
+
+  <li>🎓 Learning Cybersecurity & Red Team Operations
+  <li>🔬 Focused on Malware Analysis & Trying to learn &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Reverse Engineering
+  <li>💻 Passionate about security research
+
+
+  
 ##### Languages I use
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
@@ -32,5 +37,5 @@ cybersecurity
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-222222?style=flat&logo=ubuntu&logoColor=E95420)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-222222?style=flat&logo=kalilinux&logoColor=557C94)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-222222?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Cobalt Strike](https://img.shields.io/badge/-Cobalt%20Strike-222222?style=flat&logo=windows-terminal&logoColor=white)
+![Adaptix C2](https://img.shields.io/badge/-Adaptix%20C2-222222?style=flat&logo=codefactor&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-222222?style=flat&logo=nmap&logoColor=4682B4)
