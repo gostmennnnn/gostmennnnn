@@ -9,8 +9,15 @@
   <li>🔬 Focused on Malware Analysis & Reverse Engineering
   <li>💻 Passionate about security research
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-  
+```javascript
+ const me = {
+  learning: "I learn at the pace of a three-toed sloth. 🦥"
+};
+
+console.log(me.learning);
+```
 ##### Languages I use
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
