@@ -9,15 +9,6 @@
   <li>🔬 Focused on Malware Analysis & Reverse Engineering
   <li>💻 Passionate about security research
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
- const me = {
-  learning: "I learn at the pace of a three-toed sloth. 🦥"
-};
-
-console.log(me.learning);
-```
 ##### Languages I use
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
@@ -46,3 +37,13 @@ console.log(me.learning);
 ![VS Code](https://img.shields.io/badge/-VS%20Code-222222?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Adaptix C2](https://img.shields.io/badge/-Adaptix%20C2-222222?style=flat&logo=codefactor&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-222222?style=flat&logo=nmap&logoColor=4682B4)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+ const me = {
+  learning: "I learn at the pace of a three-toed sloth. 🦥"
+};
+
+console.log(me.learning);
+```
