@@ -1,4 +1,4 @@
-### Welcome to gostmen Hut 👋
+<h2> Welcome to Ghostmen Hut  <img src="https://media.giphy.com/media/8SpRZ3EKI25vVTH53g/giphy.gif" width="50" alt="Sticker"></h2>
 <h2> Hi, I'm gostmen (not Ghostmen) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
