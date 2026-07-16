@@ -6,7 +6,7 @@
 <h4>📋 About Me</h4>
 
   <li>🎓 Learning Cybersecurity & Red Team Operations
-  <li>🔬 Focused on Malware Analysis & Trying to learn &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Reverse Engineering
+  <li>🔬 Focused on Malware Analysis & Reverse Engineering
   <li>💻 Passionate about security research
 
 
