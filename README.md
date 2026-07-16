@@ -16,6 +16,7 @@ cybersecurity
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![Bash](https://img.shields.io/badge/-Bash-222222?style=flat&logo=gnubash&logoColor=4EAA25)
 
 ##### Some of the technologies I have worked with
 
@@ -26,7 +27,6 @@ cybersecurity
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-222222?style=flat&logo=burpsuite&logoColor=FF6633)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-222222?style=flat&logo=metasploit&logoColor=008C8C)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-222222?style=flat&logo=wireshark&logoColor=1679A7)
-![Bash](https://img.shields.io/badge/-Bash-222222?style=flat&logo=gnubash&logoColor=4EAA25)
 ![Debian](https://img.shields.io/badge/-Debian-222222?style=flat&logo=debian&logoColor=A81D33)
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker&logoColor=2496ED)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-222222?style=flat&logo=ubuntu&logoColor=E95420)
