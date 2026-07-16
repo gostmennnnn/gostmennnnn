@@ -31,6 +31,6 @@ cybersecurity
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker&logoColor=2496ED)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-222222?style=flat&logo=ubuntu&logoColor=E95420)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-222222?style=flat&logo=kalilinux&logoColor=557C94)
-![VS Code](https://img.shields.io/badge/-VS%20Code-222222?style=flat&logo=visualstudiocode&logoColor=007ACC)
-![Cobalt Strike](https://img.shields.io/badge/-Cobalt%20Strike-222222?style=flat&logo=windows-terminal&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/-VS%20Code-222222?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Cobalt Strike](https://img.shields.io/badge/-Cobalt%20Strike-222222?style=flat&logo=windows-terminal&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-222222?style=flat&logo=nmap&logoColor=4682B4)
