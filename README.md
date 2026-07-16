@@ -1,9 +1,9 @@
 ### Welcome to gostmen Hut 👋
-#### Hi, I'm gostmen (not Ghostmen) 
+<h2> Hi, I'm gostmen (not Ghostmen) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
-<h4>📋 About Me</h4>
+<h4> About Me </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
 
   <li>🎓 Learning Cybersecurity & Red Team Operations
   <li>🔬 Focused on Malware Analysis & Reverse Engineering
